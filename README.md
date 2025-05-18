@@ -35,9 +35,11 @@ Proyek ini adalah sebuah notebook Python interaktif untuk menganalisis genom vir
    cd virus-genome-analyzer
 
 2. **Install dependencies**
+   ```bash
    pip install biopython
 
-3. **Jalankan notebook**
+4. **Jalankan notebook**
+   ```bash
    Buka Virus.ipynb dengan Jupyter:
    jupyter notebook Virus.ipynb
 
