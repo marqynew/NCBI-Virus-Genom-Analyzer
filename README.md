@@ -30,6 +30,7 @@ Proyek ini adalah sebuah notebook Python interaktif untuk menganalisis genom vir
 ## 🚀 Cara Menjalankan
 
 1. **Clone repositori ini**
+   ```bash
    git clone https://github.com/username/virus-genome-analyzer.git
    cd virus-genome-analyzer
 
