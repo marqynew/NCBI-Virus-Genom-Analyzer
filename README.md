@@ -58,7 +58,7 @@ record = ambil_data_genome("NC_001786.1")  # Ganti dengan ID GenBank lain
 ## 📚 Referensi
 
 - NCBI Nucleotide Database: https://www.ncbi.nlm.nih.gov/nucleotide/
-- Biopython Documentation: https://biopython.org/wiki/Documentati
+- Biopython Documentation: https://biopython.org/wiki/Documentation
 
 ## 🧑‍💻 Kontributor
 
